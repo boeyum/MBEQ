@@ -2,7 +2,7 @@
 
 MBEQ is a complete unofficial Watch Face for Garmin watches. Basically, it is made for your own use, but if others want to use it then it is free. All use is at your own risk, and develops not responsible for any errors or deficiencies.
 
-##Installation
+## Installation
 
 The Watch Face program is stored under source/bin. Copy the file that has extension .PRG into the watch (via USB) in apps directory on the watch. After disconnecting the checks watch the app and one can choose it during watch faces.
 
