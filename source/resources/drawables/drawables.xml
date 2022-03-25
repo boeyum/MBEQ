@@ -1,0 +1,11 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <bitmap id="bakgrunn01" filename="bg240.png" />
+    <bitmap id="bakgrunn02" filename="bg260.png" />
+    <bitmap id="bakgrunn03" filename="bg390.png" />
+    <bitmap id="skritt" filename="shoes.png" />
+    <bitmap id="hjerte" filename="heartbeat.png" />
+    <bitmap id="brev" filename="mail.png" />
+    <bitmap id="batt" filename="battery.png" />
+    <bitmap id="trapp" filename="stairs.png" />
+</drawables>

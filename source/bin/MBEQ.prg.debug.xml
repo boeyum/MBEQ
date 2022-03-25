@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<manifest filename="F:\eclipseprojects\MBEQ\manifest.xml"/>
+<pcToLineNum>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="1" lineNum="36" parent="globals/MBEQView" pc="268435456" symbol="initialize"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="1" lineNum="37" parent="globals/MBEQView" pc="268435460" symbol="initialize"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="1" lineNum="38" parent="globals/MBEQView" pc="268435478" symbol="initialize"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="1" lineNum="39" parent="globals/MBEQView" pc="268435528" symbol="initialize"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="1" lineNum="40" parent="globals/MBEQView" pc="268435551" symbol="initialize"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="1" lineNum="41" parent="globals/MBEQView" pc="268435558" symbol="initialize"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="1" lineNum="42" parent="globals/MBEQView" pc="268435597" symbol="initialize"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="1" lineNum="43" parent="globals/MBEQView" pc="268435610" symbol="initialize"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="2" lineNum="47" parent="globals/MBEQView" pc="268435624" symbol="onLayout"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="2" lineNum="48" parent="globals/MBEQView" pc="268435628" symbol="onLayout"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="2" lineNum="49" parent="globals/MBEQView" pc="268435643" symbol="onLayout"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="2" lineNum="50" parent="globals/MBEQView" pc="268435686" symbol="onLayout"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="2" lineNum="51" parent="globals/MBEQView" pc="268435729" symbol="onLayout"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="2" lineNum="52" parent="globals/MBEQView" pc="268435772" symbol="onLayout"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="2" lineNum="53" parent="globals/MBEQView" pc="268435815" symbol="onLayout"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="3" lineNum="60" parent="globals/MBEQView" pc="268435859" symbol="onShow"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="64" parent="globals/MBEQView" pc="268435864" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="65" parent="globals/MBEQView" pc="268435868" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="66" parent="globals/MBEQView" pc="268435868" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="68" parent="globals/MBEQView" pc="268435875" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="69" parent="globals/MBEQView" pc="268435892" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="70" parent="globals/MBEQView" pc="268435936" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="71" parent="globals/MBEQView" pc="268435956" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="72" parent="globals/MBEQView" pc="268435969" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="73" parent="globals/MBEQView" pc="268435976" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="74" parent="globals/MBEQView" pc="268435989" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="75" parent="globals/MBEQView" pc="268435999" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="76" parent="globals/MBEQView" pc="268436018" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="78" parent="globals/MBEQView" pc="268436039" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="79" parent="globals/MBEQView" pc="268436046" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="82" parent="globals/MBEQView" pc="268436056" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="84" parent="globals/MBEQView" pc="268436063" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="85" parent="globals/MBEQView" pc="268436086" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="86" parent="globals/MBEQView" pc="268436105" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="87" parent="globals/MBEQView" pc="268436128" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="90" parent="globals/MBEQView" pc="268436147" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="92" parent="globals/MBEQView" pc="268436167" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="93" parent="globals/MBEQView" pc="268436178" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="94" parent="globals/MBEQView" pc="268436214" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="96" parent="globals/MBEQView" pc="268436274" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="97" parent="globals/MBEQView" pc="268436304" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="98" parent="globals/MBEQView" pc="268436327" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="99" parent="globals/MBEQView" pc="268436384" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="100" parent="globals/MBEQView" pc="268436446" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="101" parent="globals/MBEQView" pc="268436508" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="102" parent="globals/MBEQView" pc="268436538" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="104" parent="globals/MBEQView" pc="268436577" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="105" parent="globals/MBEQView" pc="268436613" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="106" parent="globals/MBEQView" pc="268436776" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="107" parent="globals/MBEQView" pc="268436812" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="108" parent="globals/MBEQView" pc="268436959" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="109" parent="globals/MBEQView" pc="268436995" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="111" parent="globals/MBEQView" pc="268437090" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="112" parent="globals/MBEQView" pc="268437127" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="113" parent="globals/MBEQView" pc="268437160" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="115" parent="globals/MBEQView" pc="268437217" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="116" parent="globals/MBEQView" pc="268437254" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="117" parent="globals/MBEQView" pc="268437296" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="119" parent="globals/MBEQView" pc="268437356" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="120" parent="globals/MBEQView" pc="268437393" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="4" lineNum="121" parent="globals/MBEQView" pc="268437435" symbol="onUpdate"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="5" lineNum="128" parent="globals/MBEQView" pc="268437502" symbol="onHide"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="6" lineNum="132" parent="globals/MBEQView" pc="268437507" symbol="onExitSleep"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="7" lineNum="136" parent="globals/MBEQView" pc="268437512" symbol="onEnterSleep"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="139" parent="globals/MBEQView" pc="268437517" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="140" parent="globals/MBEQView" pc="268437521" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="141" parent="globals/MBEQView" pc="268437540" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="142" parent="globals/MBEQView" pc="268437559" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="143" parent="globals/MBEQView" pc="268437581" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="144" parent="globals/MBEQView" pc="268437603" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="145" parent="globals/MBEQView" pc="268437620" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="146" parent="globals/MBEQView" pc="268437644" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="147" parent="globals/MBEQView" pc="268437681" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="148" parent="globals/MBEQView" pc="268437724" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="149" parent="globals/MBEQView" pc="268437737" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="150" parent="globals/MBEQView" pc="268437750" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="151" parent="globals/MBEQView" pc="268437763" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="152" parent="globals/MBEQView" pc="268437776" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="153" parent="globals/MBEQView" pc="268437789" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="154" parent="globals/MBEQView" pc="268437802" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="155" parent="globals/MBEQView" pc="268437815" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="156" parent="globals/MBEQView" pc="268437828" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="157" parent="globals/MBEQView" pc="268437841" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="158" parent="globals/MBEQView" pc="268437857" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="159" parent="globals/MBEQView" pc="268437894" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="160" parent="globals/MBEQView" pc="268437937" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="161" parent="globals/MBEQView" pc="268437950" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="162" parent="globals/MBEQView" pc="268437963" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="163" parent="globals/MBEQView" pc="268437976" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="164" parent="globals/MBEQView" pc="268437989" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="165" parent="globals/MBEQView" pc="268438002" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="166" parent="globals/MBEQView" pc="268438015" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="167" parent="globals/MBEQView" pc="268438028" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="168" parent="globals/MBEQView" pc="268438041" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="169" parent="globals/MBEQView" pc="268438054" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="170" parent="globals/MBEQView" pc="268438070" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="171" parent="globals/MBEQView" pc="268438107" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="172" parent="globals/MBEQView" pc="268438150" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="173" parent="globals/MBEQView" pc="268438163" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="174" parent="globals/MBEQView" pc="268438176" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="175" parent="globals/MBEQView" pc="268438189" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="176" parent="globals/MBEQView" pc="268438202" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="177" parent="globals/MBEQView" pc="268438215" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="178" parent="globals/MBEQView" pc="268438228" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="179" parent="globals/MBEQView" pc="268438241" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="180" parent="globals/MBEQView" pc="268438254" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="181" parent="globals/MBEQView" pc="268438267" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="183" parent="globals/MBEQView" pc="268438283" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="8" lineNum="186" parent="globals/MBEQView" pc="268438296" symbol="guiSetUp"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="9" lineNum="190" parent="globals/MBEQView" pc="268438307" symbol="getColor"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="9" lineNum="191" parent="globals/MBEQView" pc="268438311" symbol="getColor"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="9" lineNum="192" parent="globals/MBEQView" pc="268438322" symbol="getColor"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="9" lineNum="193" parent="globals/MBEQView" pc="268438338" symbol="getColor"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="9" lineNum="194" parent="globals/MBEQView" pc="268438349" symbol="getColor"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="9" lineNum="196" parent="globals/MBEQView" pc="268438365" symbol="getColor"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="10" lineNum="200" parent="globals/MBEQView" pc="268438379" symbol="getColorHeart"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="10" lineNum="201" parent="globals/MBEQView" pc="268438383" symbol="getColorHeart"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="10" lineNum="202" parent="globals/MBEQView" pc="268438394" symbol="getColorHeart"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="10" lineNum="203" parent="globals/MBEQView" pc="268438410" symbol="getColorHeart"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="10" lineNum="204" parent="globals/MBEQView" pc="268438421" symbol="getColorHeart"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="10" lineNum="205" parent="globals/MBEQView" pc="268438437" symbol="getColorHeart"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="10" lineNum="206" parent="globals/MBEQView" pc="268438448" symbol="getColorHeart"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="10" lineNum="207" parent="globals/MBEQView" pc="268438464" symbol="getColorHeart"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="10" lineNum="208" parent="globals/MBEQView" pc="268438475" symbol="getColorHeart"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="10" lineNum="209" parent="globals/MBEQView" pc="268438491" symbol="getColorHeart"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="10" lineNum="210" parent="globals/MBEQView" pc="268438502" symbol="getColorHeart"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="10" lineNum="212" parent="globals/MBEQView" pc="268438518" symbol="getColorHeart"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="11" lineNum="12" parent="globals/MBEQView" pc="268438801" symbol="&lt;init&gt;"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="11" lineNum="33" parent="globals/MBEQView" pc="268438819" symbol="&lt;init&gt;"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="11" lineNum="34" parent="globals/MBEQView" pc="268438924" symbol="&lt;init&gt;"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQView.mc" id="11" lineNum="12" parent="globals/MBEQView" pc="268438801" symbol="&lt;init&gt;"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQApp.mc" id="13" lineNum="5" parent="globals/MBEQApp" pc="268438532" symbol="initialize"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQApp.mc" id="13" lineNum="6" parent="globals/MBEQApp" pc="268438536" symbol="initialize"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQApp.mc" id="14" lineNum="10" parent="globals/MBEQApp" pc="268438555" symbol="onStart"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQApp.mc" id="15" lineNum="14" parent="globals/MBEQApp" pc="268438560" symbol="onStop"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQApp.mc" id="16" lineNum="18" parent="globals/MBEQApp" pc="268438565" symbol="getInitialView"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQApp.mc" id="16" lineNum="19" parent="globals/MBEQApp" pc="268438569" symbol="getInitialView"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQApp.mc" id="17" lineNum="3" parent="globals/MBEQApp" pc="268439125" symbol="&lt;init&gt;"/>
+<entry filename="F:\\eclipseprojects\\MBEQ\\source\\MBEQApp.mc" id="17" lineNum="3" parent="globals/MBEQApp" pc="268439125" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="19" lineNum="2" parent="globals/Rez/Drawables" pc="268439119" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="20" lineNum="14" parent="globals/Rez/Fonts" pc="268439121" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="21" lineNum="16" parent="globals/Rez/JsonData" pc="268439123" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="22" lineNum="25" parent="globals/Rez/Layouts" pc="268438607" symbol="WatchFace"/>
+<entry filename="Rez" id="22" lineNum="27" parent="globals/Rez/Layouts" pc="268438619" symbol="WatchFace"/>
+<entry filename="Rez" id="22" lineNum="29" parent="globals/Rez/Layouts" pc="268438782" symbol="WatchFace"/>
+<entry filename="Rez" id="23" lineNum="18" parent="globals/Rez/Layouts" pc="268439122" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="24" lineNum="34" parent="globals/Rez/Menus" pc="268439120" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="25" lineNum="36" parent="globals/Rez/Strings" pc="268439124" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="26" lineNum="1" parent="globals/Rez" pc="268439095" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="26" lineNum="1" parent="globals/Rez" pc="268439095" symbol="&lt;init&gt;"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+<entry id="4" module="true" symbol="globals/Rez/Menus"/>
+<entry id="10" object="true" symbol="MBEQApp"/>
+<entry field="true" id="15" symbol="heartIcon"/>
+<entry field="true" id="22" symbol="timeBase"/>
+<entry field="true" id="41" symbol="bakgrunn03"/>
+<entry field="true" id="40" symbol="bakgrunn02"/>
+<entry field="true" id="39" symbol="bakgrunn01"/>
+<entry id="8388647" module="true" symbol="UserProfile"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="28" symbol="iconBase"/>
+<entry field="true" id="14" symbol="errorScreen"/>
+<entry field="true" id="50" symbol="AppName"/>
+<entry field="true" id="26" symbol="fbase2"/>
+<entry field="true" id="25" symbol="fbase1"/>
+<entry field="true" id="19" symbol="trappIcon"/>
+<entry field="true" id="27" symbol="offbase"/>
+<entry id="8" module="true" symbol="globals/Rez/Strings"/>
+<entry field="true" id="46" symbol="trapp"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8388631" module="true" symbol="Activity"/>
+<entry field="true" id="29" symbol="secoff"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry field="true" id="8388913" symbol="stepGoal"/>
+<entry id="2" module="true" symbol="globals/Rez"/>
+<entry field="true" id="43" symbol="hjerte"/>
+<entry field="true" id="31" symbol="dateBase"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry field="true" id="33" symbol="mnd"/>
+<entry field="true" id="44" symbol="brev"/>
+<entry field="true" id="13" symbol="hbSens"/>
+<entry field="true" id="11" symbol="maxPuls"/>
+<entry field="true" id="42" symbol="skritt"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389348" symbol="font"/>
+<entry field="true" id="8389067" symbol="height"/>
+<entry id="38" module="true" symbol="Menus"/>
+<entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+<entry field="true" id="8389066" symbol="width"/>
+<entry field="true" id="16" symbol="stepIcon"/>
+<entry field="true" id="30" symbol="timeOff"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+<entry field="true" id="8389892" symbol="background"/>
+<entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+<entry id="34" method="true" symbol="guiSetUp"/>
+<entry id="9" object="true" symbol="MBEQView"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="36" method="true" symbol="getColorHeart"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="47" symbol="LauncherIcon"/>
+<entry id="8388610" symbol="statics"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8388643" module="true" symbol="Sensor"/>
+<entry field="true" id="17" symbol="batteryIcon"/>
+<entry id="8389350" module="true" symbol="globals"/>
+<entry id="35" method="true" symbol="getColor"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry field="true" id="12" symbol="stairGoal"/>
+<entry field="true" id="21" symbol="centerY"/>
+<entry field="true" id="20" symbol="centerX"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="32" symbol="dag"/>
+<entry field="true" id="48" symbol="configurePlaybackMessage"/>
+<entry id="37" module="true" symbol="Layouts"/>
+<entry field="true" id="24" symbol="ibase2"/>
+<entry field="true" id="23" symbol="ibase1"/>
+<entry field="true" id="49" symbol="configureSyncMessage"/>
+<entry field="true" id="18" symbol="mailIcon"/>
+<entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="45" symbol="batt"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435622" name="aldr" stackId="3" startPc="268435460"/>
+<entry endPc="268435622" name="baar" stackId="2" startPc="268435460"/>
+<entry endPc="268435622" name="daar" stackId="1" startPc="268435460"/>
+<entry endPc="268435857" name="wtype" stackId="2" startPc="268435628"/>
+<entry arg="true" endPc="268435858" name="dc" stackId="1" startPc="268435624"/>
+<entry endPc="268436035" name="hb" stackId="8" startPc="268435989"/>
+<entry endPc="268437500" name="charge" stackId="13" startPc="268436274"/>
+<entry endPc="268437500" name="stairs" stackId="11" startPc="268435868"/>
+<entry endPc="268437500" name="clockTime" stackId="4" startPc="268435868"/>
+<entry endPc="268437500" name="hrIterator" stackId="6" startPc="268435868"/>
+<entry endPc="268437500" name="done" stackId="10" startPc="268435868"/>
+<entry endPc="268437500" name="dinfo" stackId="5" startPc="268435868"/>
+<entry endPc="268437500" name="basis" stackId="12" startPc="268435868"/>
+<entry endPc="268437500" name="bpmv" stackId="2" startPc="268435868"/>
+<entry endPc="268437500" name="steps" stackId="9" startPc="268435868"/>
+<entry endPc="268437500" name="sample" stackId="7" startPc="268435868"/>
+<entry endPc="268437500" name="pros" stackId="3" startPc="268435868"/>
+<entry arg="true" endPc="268437501" name="dc" stackId="1" startPc="268435864"/>
+<entry endPc="268438305" name="mySettings" stackId="2" startPc="268437521"/>
+<entry arg="true" endPc="268438306" name="dc" stackId="1" startPc="268437517"/>
+<entry arg="true" endPc="268438378" name="pros" stackId="1" startPc="268438307"/>
+<entry arg="true" endPc="268438531" name="pros" stackId="1" startPc="268438379"/>
+<entry arg="true" endPc="268438559" name="state" stackId="1" startPc="268438555"/>
+<entry arg="true" endPc="268438564" name="state" stackId="1" startPc="268438560"/>
+<entry endPc="268438798" name="rez_cmp_local_text_TimeLabel" stackId="2" startPc="268438619"/>
+<entry arg="true" endPc="268438799" name="dc" stackId="1" startPc="268438607"/>
+</localVars>
+<annotations>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="bakgrunn01"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="bakgrunn02"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="bakgrunn03"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="skritt"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="hjerte"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="brev"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="batt"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="trapp"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="configurePlaybackMessage"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="configureSyncMessage"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+</annotations>
+<dataEntryOffsetMappings>
+<dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry label="globals/MBEQView" offset="150" parentId="globals" symbolId="MBEQView" type="class"/>
+<dataEntry label="globals/Rez" offset="485" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry label="globals/Rez/Drawables" offset="564" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry label="globals/Rez/Menus" offset="667" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry label="globals/Rez/Fonts" offset="698" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry label="globals/Rez/Layouts" offset="729" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry label="globals/Rez/JsonData" offset="768" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry label="globals/Rez/Strings" offset="799" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry label="globals/MBEQApp" offset="854" parentId="globals" symbolId="MBEQApp" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" endPc="268435623" name="initialize" parent="MBEQView" startPc="268435456">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435858" name="onLayout" parent="MBEQView" startPc="268435624">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435863" name="onShow" parent="MBEQView" startPc="268435859">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437501" name="onUpdate" parent="MBEQView" startPc="268435864">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437506" name="onHide" parent="MBEQView" startPc="268437502">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437511" name="onExitSleep" parent="MBEQView" startPc="268437507">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437516" name="onEnterSleep" parent="MBEQView" startPc="268437512">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438306" name="guiSetUp" parent="MBEQView" startPc="268437517">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438378" name="getColor" parent="MBEQView" startPc="268438307">
+<param id="pros"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438531" name="getColorHeart" parent="MBEQView" startPc="268438379">
+<param id="pros"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268439094" name="&lt;init&gt;" parent="MBEQView" startPc="268438801">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438554" name="initialize" parent="MBEQApp" startPc="268438532">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438559" name="onStart" parent="MBEQApp" startPc="268438555">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438564" name="onStop" parent="MBEQApp" startPc="268438560">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438606" name="getInitialView" parent="MBEQApp" startPc="268438565">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268439143" name="&lt;init&gt;" parent="MBEQApp" startPc="268439125">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268439119" name="&lt;init&gt;" parent="Drawables" startPc="268439119">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268439121" name="&lt;init&gt;" parent="Fonts" startPc="268439121">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268439123" name="&lt;init&gt;" parent="JsonData" startPc="268439123">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438799" name="WatchFace" parent="Layouts" startPc="268438607">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268439122" name="&lt;init&gt;" parent="Layouts" startPc="268439122">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268439120" name="&lt;init&gt;" parent="Menus" startPc="268439120">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268439124" name="&lt;init&gt;" parent="Strings" startPc="268439124">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268439118" name="&lt;init&gt;" parent="Rez" startPc="268439095">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>
