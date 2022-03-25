@@ -60,4 +60,4 @@ This app is experimental and may therefore contain errors and omissions. The bes
 # Change log
 
 # Licens
-[MIT](https://github.com)
+[MIT](https://opensource.org/licenses/MIT)
