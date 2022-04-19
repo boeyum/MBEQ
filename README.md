@@ -2,7 +2,7 @@
 
 MBEQ is a complete unofficial Watch Face for Garmin watches. Basically, it is made for your own use, but if others want to use it then it is free. All use is at your own risk, and develops not responsible for any errors or deficiencies.
 
-<p align="center"><img src="https://github.com/boeyum/MEQ/mbeq.png"></p>
+<p align="center"><img src="https://github.com/boeyum/MBEQ/mbeq.png"></p>
 
 ## Installation
 
