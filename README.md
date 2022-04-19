@@ -2,9 +2,11 @@
 
 MBEQ is a complete unofficial Watch Face for Garmin watches. Basically, it is made for your own use, but if others want to use it then it is free. All use is at your own risk, and develops not responsible for any errors or deficiencies.
 
+<p align="center"><img src="https://github.com/boeyum/MEQ/blob/main/mbeq.png"></p>
+
 ## Installation
 
-The Watch Face program is stored under source/bin. Copy the file that has extension .PRG into the watch (via USB) in apps directory on the watch. After disconnecting the checks watch the app and one can choose it during watch faces.
+The Watch Face is distributed as source, and can be compiled for any of the compatible watches. There is a version of the .prg file under source/bin for the development system (compiled for VivoActive 4). 
 
 # Supported watches
 Only a few Garmin models are basically supporters, but it is freely up to anyone to download source and customize it to its model.
